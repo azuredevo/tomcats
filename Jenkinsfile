@@ -13,7 +13,7 @@ pipeline {
         }        
         stage('Clean') {
             steps {
-               sh "mvn -Dmaven.test.failure.ignore=true clean"
+               sh "mvn clean"
             }
         }
         
