@@ -15,9 +15,9 @@
   </properties>
  <distributionManagement>
     <repository>
-        <id>central</id>
-        <name>a0nbmrdjnvdlh-artifactory-primary-0-releases</name>
-        <url>https://https://sumanthsai.jfrog.io/artifactory/libs-snapshot/</url>
+        <id>libs-snapshot-local</id>
+        <name>libs-snapshot-local</name>
+        <url>https://sumanthsai.jfrog.io/artifactory/libs-snapshot-local//</url>
     </repository>
 </distributionManagement>
   <dependencies>
