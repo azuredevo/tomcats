@@ -14,11 +14,11 @@
   <sonar.login>3146f08c6be0168602832bf1efb5746e8b346d27</sonar.login>
   </properties>
  <distributionManagement>
-    <repository>
+    <snapshotrepository>
         <id>libs-snapshot-local</id>
         <name>libs-snapshot-local</name>
         <url>https://sumanthsai.jfrog.io/artifactory/libs-snapshot-local//</url>
-    </repository>
+    </snapshotrepository>
    <repository>
         <id>libs-release-local</id>
         <name>libs-release-local</name>
